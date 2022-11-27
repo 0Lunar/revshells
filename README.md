@@ -1,2 +1,7 @@
 # revshells
-A reverse shell generator
+
+# requirements
+ - python3
+
+# start
+ - python3 revshells.py
